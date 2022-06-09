@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https:vishakh_abhayan.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https:vishakh_abhayan.io)
 <h1 align="center">Hi 👋, I'm Vishakh Abhayan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="coding..." src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
