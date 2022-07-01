@@ -37,7 +37,7 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&" alt="vishakh-abhayan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=28ebe1&icon_color=ff38d7&bg_color=1A2B34" alt="vishakh-abhayan" /></p>
 
 
 
