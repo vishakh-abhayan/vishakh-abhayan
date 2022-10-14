@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vishakh_abhayan" target="blank"><img src="https://img.shields.io/twitter/follow/@vishakh_abhayan?logo=twitter&style=for-the-badge" alt="@vishakh_abhayan" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Web Developing**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://vishakhabhayan.com](https://vishakhabhayan.com)
 
-- ⚡ Fun fact **am 17**
+- ⚡ Fun fact **am 18**
 
 
 <h3 align="left">Connect with me:</h3>
