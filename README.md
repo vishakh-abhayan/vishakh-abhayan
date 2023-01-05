@@ -33,12 +33,12 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
-<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=1c1917&ring=7f08b2&fire=7f08b2&currStreakNum=ffffff&currStreakLabel=7f08b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=1c1917&ring=00FFFF&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="https://github.com/vishakh-abhayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vishakh-abhayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishakh-abhayan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
