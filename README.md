@@ -33,12 +33,12 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=0B243B&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
-<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=1c1917&ring=00FFFF&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=0B243B&ring=00FFFF&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="https://github.com/vishakh-abhayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vishakh-abhayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=0B243B&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishakh-abhayan&&bg_color=0B243B&color=708090&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
