@@ -40,7 +40,7 @@
 
 <a href="https://github.com/vishakh-abhayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishakh-abhayan&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishakh-abhayan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://www.buymeacoffee.com/Vishakha7" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
