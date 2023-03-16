@@ -33,7 +33,9 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=0B243B&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+
+
+<a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=e2fdff&text_color=bfd7ff&icon_color=00FFFF&bg_color=5465ff&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
 <a href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=0B243B&ring=00FFFF&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
