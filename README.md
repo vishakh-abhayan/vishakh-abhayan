@@ -38,12 +38,12 @@
 
 
 
-<a style="margin: 40rem" href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=e2fdff&text_color=bfd7ff&icon_color=00FFFF&bg_color=5465ff&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
+<a style="margin: 40rem" href="https://github.com/vishakh-abhayan"><img src="https://github-readme-stats.vercel.app/api?username=vishakh-abhayan&show_icons=true&hide=&count_private=true&title_color=e2fdff&text_color=bfd7ff&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
-<a style="margin: 40rem" href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=5465ff&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=bfd7ff&dates=bfd7ff&hide_border=true" /></a>
+<a style="margin: 40rem" href="https://github.com/vishakh-abhayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakh-abhayan&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=bfd7ff&dates=bfd7ff&hide_border=true" /></a>
 
 
-<a style="text-aling:center" href="https://github.com/vishakh-abhayan" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=e2fdff&text_color=ffffff&icon_color=00FFFF&bg_color=5465ff&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=CSS,HTML" alt="Top Languages" /></a>
+<a style="text-aling:center" href="https://github.com/vishakh-abhayan" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakh-abhayan&langs_count=10&title_color=e2fdff&text_color=ffffff&icon_color=00FFFF&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=CSS,HTML" alt="Top Languages" /></a>
 
 
 
