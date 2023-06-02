@@ -42,9 +42,7 @@
 
 
 <div align="center">
-  <a href="https://buymeacoffee.com/Vishakha7">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5465ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
-  </a>
+  <a href="https://www.buymeacoffee.com/Vishakha7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 
 ##
