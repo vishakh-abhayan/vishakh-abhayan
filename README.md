@@ -1,7 +1,9 @@
 
 
 
-
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
+</div>
 
 
 
@@ -44,6 +46,8 @@
 
 ##
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
-</div>
+<!-- Grid Snake -->
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
