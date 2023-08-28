@@ -5,7 +5,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
 </div>
 
+#
 
+<div align="center"></div>
+<div align="center"></div>
+
+
+
+<div align="center"></div>
 
 <h1 align="center">💻 Tech Stack</h1>
 
@@ -47,7 +54,10 @@
 ##
 
 <!-- Grid Snake -->
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+<div align="center">
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
