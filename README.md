@@ -6,7 +6,7 @@
 </div>
 
 #
-
+<!--
 <div align="center"></div>
 <div align="center"></div>
 
@@ -50,7 +50,7 @@
 <!--   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5465ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Vishakha7)  -->
 <!-- </div> -->
 
-
+<!--
 <div align="center">
   <a href="https://www.buymeacoffee.com/Vishakha7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
@@ -58,9 +58,11 @@
 ##
 
 <!-- Grid Snake -->
+<!--
 <div align="center">
 <picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+-->
